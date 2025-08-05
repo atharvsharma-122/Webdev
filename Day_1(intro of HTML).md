@@ -12,3 +12,11 @@
 <h2> Jon Snow </h2>
 <h3>Arya Stark</h3>
 <h4>Mad king</h4> 
+
+<h1> DC Marvel </h1>
+<h2> Superman</h2>
+<p>Also known as <b>Clark kent</b></p>
+<h2>Batman</h2>
+<p>Also known as <b>The night king</b></p>
+<h3>Villan </h3>
+<p>Also known as <b>Humans</b></p>
