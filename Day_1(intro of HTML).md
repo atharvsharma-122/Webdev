@@ -8,7 +8,6 @@ This file contains combined HTML code for:
 ---
 
 ## Full HTML Code
-### > → &gt; < → &lt;
 
 ```html
 <!DOCTYPE html>
@@ -76,4 +75,5 @@ This file contains combined HTML code for:
 </body>
 </html>   ```
 
+ > → &gt; < → &lt;
 
