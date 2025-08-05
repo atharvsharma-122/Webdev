@@ -5,11 +5,10 @@ This file contains combined HTML code for:
 - DC & Marvel section
 - Boilerplate
 - Lists in HTML
-- REMEBER THIS From line 50 you see their is &lt,&gt these kind of things are written it is nothing but < → &lt; > → &gt;
-
 ---
 
 ## Full HTML Code
+### > → &gt; < → &lt;
 
 ```html
 <!DOCTYPE html>
