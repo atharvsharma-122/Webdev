@@ -87,3 +87,20 @@
 
 </body>
 </html>
+
+REMEBER THIS --
+I wrote &lt; and &gt; so the code would not run and instead show up as text in your Markdown file.
+
+If I had written < and > directly in Markdown, GitHub would try to render it as real HTML, and you wouldn’t see the code — only the output.
+
+So:
+
+&lt; = <
+
+&gt; = >
+
+They are just safe symbols to display HTML code instead of executing it.
+
+✅ In your actual HTML file in VS Code, you should always use < and >, not &lt; and &gt;.
+
+
