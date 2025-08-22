@@ -25,7 +25,7 @@
 ---
 
 ## 📬 Contact Me  
-- **Email** : atharvsharma439@gmail.com  
+- **Email** : atharvsharma7535@gmail.com  
 - [🔗 LinkedIn](https://www.linkedin.com/in/atharv-sharma-75161a298/)  
 
 ---
