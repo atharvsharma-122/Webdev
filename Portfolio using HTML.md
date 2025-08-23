@@ -31,3 +31,5 @@
 ---
 
 ❤️ Made with Love by **Atharv Sharma**  
+
+<!--<hr> tag is used to make a horizontal line -->
