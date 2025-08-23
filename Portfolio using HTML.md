@@ -30,7 +30,7 @@
 
 ---
 
-<!--<hr> tag is used to make a horizontal line -->
+<hr> tag is used to make a horizontal line
 ❤️ Made with Love by **Atharv Sharma**  
 
 
